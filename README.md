@@ -8,6 +8,7 @@ Quick-reference sheets for incident response and digital forensics: where Window
 |---|---|
 | [`windows-artifacts.md`](windows-artifacts.md) | What each artifact proves, where it lives, and its limits |
 | [`windows-event-ids.md`](windows-event-ids.md) | Security, System, Sysmon, PowerShell, RDP, Task Scheduler and Defender event IDs |
+| [`registry-triage.md`](registry-triage.md) | Reading registry hives with Registry Explorer and RECmd: persistence, execution evidence, ransomware-related keys |
 | [`persistence-locations.md`](persistence-locations.md) | Where attackers keep access on Windows, with the hunt for each |
 | [`triage-first-30-minutes.md`](triage-first-30-minutes.md) | Scoping, containment decisions, what to collect and in what order |
 | [`linux-triage.md`](linux-triage.md) | The same questions for a Linux host |
